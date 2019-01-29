@@ -2,7 +2,23 @@
   "categories": [
     {
       "categoryId": 1,
-      "title": "Ordinary Drink"
+      "name": "Ordinary Drink"
+    },
+    {
+      "categoryId": 2,
+      "name": "Cocktail"
+    },
+    {
+      "categoryId": 3,
+      "name": "Milk/Float/Shake"
+    },
+    {
+      "categoryId": 4,
+      "name": "Ordinary Drink"
+    },
+    {
+      "categoryId": 5,
+      "name": "Cocoa"
     }
   ],
   "profile": {
