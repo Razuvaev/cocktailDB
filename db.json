@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "categories": [
     {
-      "id": 1,
-      "title": "hello"
+      "categoryId": 1,
+      "title": "Ordinary Drink"
     }
   ],
   "profile": {
