@@ -10,10 +10,6 @@
       "name": "Cocktail"
     },
     {
-      "categoryId": "milk_float_shake",
-      "name": "Milk/Float/Shake"
-    },
-    {
       "categoryId": "shot",      
       "name": "Shot"
     },
@@ -28,7 +24,74 @@
         "name": "3-Mile Long Island Iced Tea",
         "imageURL": "https://bevvyco.s3.amazonaws.com/img/drinks/Sl/LSl/1863553cec96dcabeffc85ec368079b4-md.jpg",
         "drinkId": "15300"
+      },
+      {
+        "name": "501 Blue",
+        "imageURL": "https://lh3.googleusercontent.com/1MpBd1Gyx6U5Op9-wIn1dIDOFfwBrTeq9-WTrh1isnRQnZ1dERroMDeDD6YAxlCzkgziF2jLQTtWJI8i1tcEdA=s256-c-rj-v1-e365",
+        "drinkId": "17105"
+      },
+      {
+        "name": "69 Special",
+        "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/9d/ed/97/9ded973e-a557-d4d7-5bb3-60e031e8abf1/source/256x256bb.jpg",
+        "drinkId": "13940"
       }      
      ]
-  }
+  },
+  "cocktail": {
+    "items": [
+      {
+        "name": "57 Chevy with a White License Plate",
+        "imageURL": "https://b3h2.scene7.com/is/image/BedBathandBeyond/10805716461598p?$imagePLP$&wid=256&hei=256",
+        "drinkId": "14029"
+      },
+      {
+        "name": "155 Belmont",
+        "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/0a/35/6f/0a356f80-329d-ca79-b0ae-194a1312f59c/source/256x256bb.jpg",
+        "drinkId": "15346"
+      },
+      {
+        "name": "9 1/2 Weeks",
+        "imageURL": "https://i.pinimg.com/736x/06/18/99/0618994173485fc8a02250f84672a8d6--paradise-drink-organic-recipes.jpg",
+        "drinkId": "16108"
+      }     
+     ]
+  },
+  "cocoa": {
+    "items": [
+      {
+        "name": "Castillian Hot Chocolate",
+        "imageURL": "http://redirect.bigoven.com/pics/rs/256/punch-for-large-group.jpg",
+        "drinkId": "12730"
+      },
+      {
+        "name": "Chocolate Beverage",
+        "imageURL": "https://s-media-cache-ak0.pinimg.com/originals/8b/94/4a/8b944a9c9fec64b8485f3654e60352a9.jpg",
+        "drinkId": "12732"
+      },
+      {
+        "name": "Chocolate Drink",
+        "imageURL": "https://i.pinimg.com/originals/3c/9a/44/3c9a44da3512e60864f14adbafa6820d.jpg",
+        "drinkId": "12734"
+      }      
+     ]
+  },
+  "shot": {
+    "items": [
+      {
+        "name": "24k nightmare",
+        "imageURL": "https://pbs.twimg.com/profile_images/3325066038/b095e466f800af9c2743841e4c3ccdf8.jpeg",
+        "drinkId": "17060"
+      },
+      {
+        "name": "252",
+        "imageURL": "https://lh3.googleusercontent.com/fj3DlhEdmeZTJWocPs7FclZsbELO0LVLMrlGucX0v5EvA52D11qfesi05-aXTG8dg5p1M4oCQeA9BUBdB1rNFA",
+        "drinkId": "15288"
+      },
+      {
+        "name": "3 Wise Men",
+        "imageURL": "https://bevvyco.s3.amazonaws.com/img/drinks/hm/xhm/7b596745caab76614965b7d018a3bdda-md.jpg",
+        "drinkId": "13899"
+      }      
+     ]
+  }  
 }
