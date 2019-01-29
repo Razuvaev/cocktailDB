@@ -1,8 +1,6 @@
 {
   "categories": [
     {
-      "items": [
-         {
       "name": "Ordinary Drink"
     },
     {
@@ -17,8 +15,6 @@
     {
       "name": "Cocoa"
     }   
-       ]
-    }
   ],
   "profile": {
     "name": "typicode"
