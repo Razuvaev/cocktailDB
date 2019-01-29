@@ -1,6 +1,8 @@
 {
   "categories": [
     {
+      "items": [
+         {
       "categoryId": 1,
       "name": "Ordinary Drink"
     },
@@ -19,6 +21,8 @@
     {
       "categoryId": 5,
       "name": "Cocoa"
+    }   
+       ]
     }
   ],
   "profile": {
