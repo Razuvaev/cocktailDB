@@ -2,19 +2,33 @@
   "categories": {
     "items": [
     {
+      "categoryId": "ordinary_drink",
       "name": "Ordinary Drink"
     },
     {
+      "categoryId": "cocktail",
       "name": "Cocktail"
     },
     {
+      "categoryId": "milk_float_shake",
       "name": "Milk/Float/Shake"
     },
     {
-      "name": "Ordinary Drink"
+      "categoryId": "shot",      
+      "name": "Shot"
     },
     {
+      "categoryId": "cocoa",      
       "name": "Cocoa"
     }]
+  },
+  "ordinary_drink": {
+    "items": [
+      {
+        "name": "3-Mile Long Island Iced Tea",
+        "imageURL": "https://bevvyco.s3.amazonaws.com/img/drinks/Sl/LSl/1863553cec96dcabeffc85ec368079b4-md.jpg",
+        "drinkId": "15300"
+      }      
+     ]
   }
 }
